@@ -20,12 +20,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AssetFavoritesTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/6b394da2-0faa-4ec5-b6c5-cd35dc771bad"
+			"Name": "MassAI",
+			"Enabled": true
 		},
 		{
-			"Name": "MassAI",
+			"Name": "MassCrowd",
 			"Enabled": true
 		}
 	]
